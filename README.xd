@@ -1,0 +1,11 @@
+# 🏠 API de Busca de Endereço por CEP
+
+API simples em **Python + Flask** que consome o serviço público do [ViaCEP](https://viacep.com.br) para retornar dados de endereço a partir de um CEP informado.
+
+---
+
+## 🚀 Como usar
+
+### 1️⃣ Instalar dependências
+```bash
+pip install -r requirements.txt
